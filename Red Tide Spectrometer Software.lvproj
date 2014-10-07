@@ -110,7 +110,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/Z/Dropbox/Lior Segev/Software/RedTideDeployment</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{597664B1-0C0E-42D9-A49A-81D3F9AB3111}</Property>
-				<Property Name="Bld_version.build" Type="Int">15</Property>
+				<Property Name="Bld_version.build" Type="Int">17</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">RedTideSpectrometerSoftware.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/Z/Dropbox/Lior Segev/Software/RedTideDeployment/RedTideSpectrometerSoftware.exe</Property>
@@ -121,7 +121,7 @@
 				<Property Name="Destination[1].path" Type="Path">/Z/Dropbox/Lior Segev/Software/RedTideDeployment/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{545EC836-5D76-495B-80E0-C9BD88F21F4E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{711330BF-4880-4655-B728-93D5AA04F901}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main.vi</Property>
