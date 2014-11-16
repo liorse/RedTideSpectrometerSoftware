@@ -200,7 +200,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/W/Lior Segev/Software/RedTideDeployment</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{597664B1-0C0E-42D9-A49A-81D3F9AB3111}</Property>
-				<Property Name="Bld_version.build" Type="Int">39</Property>
+				<Property Name="Bld_version.build" Type="Int">40</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">RedTideSpectrometerSoftware.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/W/Lior Segev/Software/RedTideDeployment/RedTideSpectrometerSoftware.exe</Property>
